@@ -1,0 +1,1 @@
+/usr/local/bin/st -f "FiraCode Nerd Font Mono:pixelsize=38:antialias=true:autohint=true" -e "tmux"
